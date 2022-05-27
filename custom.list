@@ -1,1 +1,12 @@
-
+10.64.0.70 us-ad
+10.32.0.70 ls-ad
+10.32.0.71 ls-file
+10.64.0.71 us-file
+10.32.3.50 unifi
+10.32.3.50 unificontroller
+10.32.3.132 vcenter
+10.64.15.6 cocalc.sasaustin.org
+10.128.0.10 phone.sasaustin.org
+12.12.136.132 proxy.sasaustin.org
+10.64.0.73 us-dns.sasaustin.net
+10.32.0.73 ls-dns.sasaustin.net
