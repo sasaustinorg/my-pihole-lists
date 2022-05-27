@@ -1,2 +1,11 @@
 id,address,enabled,date_added,date_modified,comment,date_updated,number,invalid_domains,status
-1,https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts,1,1653585636,1653585636,"Migrated from /etc/pihole/adlists.list",1653585639,143018,0,1
+1,https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts,1,1653661119,1653661257,,"",143018,0,2
+2,https://blocklistproject.github.io/Lists/abuse.txt,1,1653661273,1653661273,blocklistproject,,435210,0,2
+3,https://blocklistproject.github.io/Lists/drugs.txt,1,1653661281,1653661281,blocklistproject/Lists,,26588,0,2
+4,https://blocklistproject.github.io/Lists/fraud.txt,1,1653661315,1653661315,blocklistproject/Lists,,196088,0,2
+5,https://blocklistproject.github.io/Lists/gambling.txt,1,1653661323,1653661323,blocklistproject/Lists,,2480,0,2
+6,https://blocklistproject.github.io/Lists/malware.txt,1,1653661327,1653661327,blocklistproject/Lists,,435311,0,2
+7,https://blocklistproject.github.io/Lists/phishing.txt,1,1653661333,1653661333,blocklistproject/Lists,,190241,0,2
+8,https://blocklistproject.github.io/Lists/porn.txt,1,1653661340,1653661340,blocklistproject/Lists,,500206,0,2
+9,https://blocklistproject.github.io/Lists/ransomware.txt,1,1653661345,1653661345,blocklistproject/Lists,,1904,0,2
+10,https://blocklistproject.github.io/Lists/scam.txt,1,1653661351,1653661351,blocklistproject/Lists,,1265,0,2
