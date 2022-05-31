@@ -10,3 +10,10 @@
 12.12.136.132 proxy.sasaustin.org
 10.64.0.73 us-dns.sasaustin.net
 10.32.0.73 ls-dns.sasaustin.net
+10.32.0.70 ls-ad.standrews.austin.tx.us
+10.32.0.71 ls-file.standrews.austin.tx.us
+10.64.0.71 us-file.standrews.austin.tx.us
+10.64.0.70 us-ad.standrews.austin.tx.us
+10.32.3.50 unifi.standrews.austin.tx.us
+10.32.3.132 vcenter.standrews.austin.tx.us
+10.32.3.50 unificontroller.standrews.austin.tx.us
