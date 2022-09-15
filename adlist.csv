@@ -1,16 +1,16 @@
 id,address,enabled,date_added,date_modified,comment,date_updated,number,invalid_domains,status
 1,https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts,0,1653661119,1654546883,,1654398422,112429,0,1
-2,https://blocklistproject.github.io/Lists/abuse.txt,1,1653661273,1653661273,blocklistproject,1656212823,435207,0,2
-3,https://blocklistproject.github.io/Lists/drugs.txt,1,1653661281,1653661281,blocklistproject/Lists,,26588,0,2
-4,https://blocklistproject.github.io/Lists/fraud.txt,1,1653661315,1653661315,blocklistproject/Lists,,196088,0,2
+2,https://blocklistproject.github.io/Lists/abuse.txt,1,1653661273,1653661273,blocklistproject,1663255318,435207,0,1
+3,https://blocklistproject.github.io/Lists/drugs.txt,1,1653661281,1653661281,blocklistproject/Lists,1663255318,26588,0,1
+4,https://blocklistproject.github.io/Lists/fraud.txt,1,1653661315,1653661315,blocklistproject/Lists,1663255319,196088,0,1
 5,https://blocklistproject.github.io/Lists/gambling.txt,0,1653661323,1654546974,blocklistproject/Lists,,2480,0,2
 6,https://blocklistproject.github.io/Lists/malware.txt,0,1653661327,1654546975,blocklistproject/Lists,,435311,0,2
-7,https://blocklistproject.github.io/Lists/phishing.txt,1,1653661333,1653661333,blocklistproject/Lists,,190241,0,2
+7,https://blocklistproject.github.io/Lists/phishing.txt,1,1653661333,1653661333,blocklistproject/Lists,1663255320,190241,0,1
 8,https://blocklistproject.github.io/Lists/porn.txt,0,1653661340,1654546976,porn,,500206,0,2
-9,https://blocklistproject.github.io/Lists/ransomware.txt,1,1653661345,1653661345,blocklistproject/Lists,,1904,0,2
-10,https://blocklistproject.github.io/Lists/scam.txt,1,1653661351,1653661351,blocklistproject/Lists,,1265,0,2
+9,https://blocklistproject.github.io/Lists/ransomware.txt,1,1653661345,1653661345,blocklistproject/Lists,1663255321,1904,0,1
+10,https://blocklistproject.github.io/Lists/scam.txt,1,1653661351,1653661351,blocklistproject/Lists,1663255321,1265,0,1
 11,https://v.firebog.net/hosts/Prigent-Adult.txt,0,1653666369,1654546987,porn,1653666491,4315468,0,2
 12,https://raw.githubusercontent.com/chadmayfield/my-pihole-blocklists/master/lists/pi_blocklist_porn_top1m.list,0,1653666395,1654546823,,1653666492,11868,0,2
-13,https://v.firebog.net/hosts/static/w3kbl.txt,1,1653666410,1653666410,,1653666494,356,0,2
-14,https://raw.githubusercontent.com/Sekhan/TheGreatWall/master/TheGreatWall.txt,1,1653667918,1654547027,"Block DoH",1653667988,132,0,2
-15,https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling-porn/hosts,1,1654546907,1654546907,"adware, malware, fakenews, gambling, porn",1662865625,192211,0,1
+13,https://v.firebog.net/hosts/static/w3kbl.txt,1,1653666410,1653666410,,1663255321,356,0,1
+14,https://raw.githubusercontent.com/Sekhan/TheGreatWall/master/TheGreatWall.txt,1,1653667918,1654547027,"Block DoH",1663255322,132,0,1
+15,https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling-porn/hosts,1,1654546907,1654546907,"adware, malware, fakenews, gambling, porn",1663255323,193956,0,1
