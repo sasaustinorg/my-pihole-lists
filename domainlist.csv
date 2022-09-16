@@ -273,3 +273,4 @@ id,type,domain,enabled,date_added,date_modified,comment
 275,2,(\.|^)doh\.opendns\.com$,1,1653668345,1653668345,
 276,3,(\.|^)tubecup\.net$,1,1654092895,1654092895,
 277,0,telemetry.malwarebytes.com,1,1663258024,1663258024,"Added from Query Log"
+279,2,(\.|^)malwarebytes\.com$,1,1663336274,1663336274,
