@@ -288,3 +288,8 @@ id,type,domain,enabled,date_added,date_modified,comment
 295,2,(\.|^)mzstatic\.com$,1,1673289160,1673289168,
 296,2,(\.|^)apple-cloudkit\.com$,1,1673289233,1673289239,
 297,2,(\.|^)cloudfront\.net$,1,1673289251,1673289265,
+298,3,(^|\.)muscdn\.com$,1,1674239164,1674239201,tiktok
+299,3,(^|\.)musical\.ly$,1,1674239172,1674239202,tiktok
+300,3,(^|\.)tiktok\.com$,1,1674239180,1674239204,tiktok
+301,3,(^|\.)tiktok\.org$,1,1674239188,1674239205,tiktok
+302,3,(^|\.)tiktokcdn\.com$,1,1674239194,1674239206,tiktok
