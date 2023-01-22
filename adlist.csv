@@ -13,5 +13,5 @@ id,address,enabled,date_added,date_modified,comment,date_updated,number,invalid_
 12,https://raw.githubusercontent.com/chadmayfield/my-pihole-blocklists/master/lists/pi_blocklist_porn_top1m.list,0,1653666395,1654546823,,1653666492,11868,0,2
 13,https://v.firebog.net/hosts/static/w3kbl.txt,1,1653666410,1653666410,,1673034224,356,0,2
 14,https://raw.githubusercontent.com/Sekhan/TheGreatWall/master/TheGreatWall.txt,1,1653667918,1654547027,"Block DoH",1673034224,132,0,2
-15,https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling-porn/hosts,1,1654546907,1654546907,"adware, malware, fakenews, gambling, porn",1674236774,227132,0,1
-16,https://raw.githubusercontent.com/d43m0nhLInt3r/socialblocklists/master/TikTok/tiktokblocklist.txt,1,1674236743,1674236802,tiktok,1674236774,24,0,1
+15,https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling-porn/hosts,1,1654546907,1654546907,"adware, malware, fakenews, gambling, porn",1674236774,227132,0,2
+16,https://raw.githubusercontent.com/d43m0nhLInt3r/socialblocklists/master/TikTok/tiktokblocklist.txt,1,1674236743,1674236802,tiktok,1674236774,24,0,2
