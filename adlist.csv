@@ -1,5 +1,5 @@
 id,address,enabled,date_added,date_modified,comment,date_updated,number,invalid_domains,status
-1,https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts,1,1653661119,1674498739,,1674503196,171824,0,1
+1,https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts,1,1653661119,1674498739,,1674748054,172502,0,2
 2,https://blocklistproject.github.io/Lists/abuse.txt,1,1653661273,1653661273,blocklistproject,1673172726,435180,0,2
 3,https://blocklistproject.github.io/Lists/drugs.txt,1,1653661281,1653661281,blocklistproject/Lists,1673034218,26588,0,2
 4,https://blocklistproject.github.io/Lists/fraud.txt,1,1653661315,1653661315,blocklistproject/Lists,1673034220,196085,0,2
@@ -12,5 +12,7 @@ id,address,enabled,date_added,date_modified,comment,date_updated,number,invalid_
 11,https://v.firebog.net/hosts/Prigent-Adult.txt,0,1653666369,1654546987,porn,1653666491,4315468,0,2
 13,https://v.firebog.net/hosts/static/w3kbl.txt,1,1653666410,1674498755,,1673034224,356,0,2
 14,https://raw.githubusercontent.com/Sekhan/TheGreatWall/master/TheGreatWall.txt,1,1653667918,1654547027,"Block DoH",1673034224,132,0,2
-15,https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling-porn/hosts,1,1654546907,1654546907,"adware, malware, fakenews, gambling, porn",1674503207,227887,0,1
+15,https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling-porn/hosts,1,1654546907,1654546907,"adware, malware, fakenews, gambling, porn",1674748066,228565,0,2
 16,https://raw.githubusercontent.com/d43m0nhLInt3r/socialblocklists/master/TikTok/tiktokblocklist.txt,1,1674236743,1674236802,tiktok,1674236774,24,0,2
+17,https://raw.githubusercontent.com/sasaustinorg/blocklists/main/games.txt,1,1674748041,1674749413,"games category",1674748067,10085,0,2
+18,https://raw.githubusercontent.com/sasaustinorg/blocklists/main/warez.txt,1,1674748231,1674749418,warez,1674748265,1375,0,2

@@ -293,3 +293,4 @@ id,type,domain,enabled,date_added,date_modified,comment
 300,3,(^|\.)tiktok\.com$,1,1674239180,1674239204,tiktok
 301,3,(^|\.)tiktok\.org$,1,1674239188,1674239205,tiktok
 302,3,(^|\.)tiktokcdn\.com$,1,1674239194,1674239206,tiktok
+303,3,(\.|^)radon\.games$,1,1674750551,1674750559,"proxy games website"
