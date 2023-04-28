@@ -273,7 +273,7 @@ id,type,domain,enabled,date_added,date_modified,comment
 276,3,(\.|^)tubecup\.net$,1,1654092895,1654092895,
 277,0,telemetry.malwarebytes.com,1,1663258024,1673288106,"Added from Query Log"
 279,2,(\.|^)malwarebytes\.com$,1,1663336274,1673288104,
-281,3,.*,1,1673288205,1673288213,
+281,3,.*,1,1673288205,1682698589,"ISEE AP Test"
 282,2,(\.|^)apple\.com$,1,1673288221,1673288464,
 285,2,(\.|^)jamfcloud\.com$,1,1673288320,1673288327,
 286,2,(\.|^)akamai\.net$,1,1673288341,1673288364,
