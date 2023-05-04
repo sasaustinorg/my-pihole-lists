@@ -89,7 +89,7 @@ id,type,domain,enabled,date_added,date_modified,comment
 91,0,intercom.io,1,1653665856,1653665856,"Live chat platform for websites to chat with the website owner. Blocking this domain will block chat widget. - qjz9zk"
 92,0,jquery.com,1,1653665856,1653665856,"jQuery is a JavaScript library. Also used to deliver the files over CDN. - qjz9zk"
 93,0,jsdelivr.net,1,1653665856,1653665856," jsDelivr is a free public CDN for open-source projects. It can serve web files directly from the npm registry and GitHub repositories without any configuration. - qjz9zk"
-94,0,keystone.mwbsys.com,1,1653665856,1673288425,"Owned by Malwarebytes. It is a licensing system used to verify the Malwarebytes software license. - qjz9zk"
+94,0,keystone.mwbsys.com,1,1653665856,1683206880,"Owned by Malwarebytes. It is a licensing system used to verify the Malwarebytes software license. - qjz9zk"
 95,0,lastfm-img2.akamaized.net,1,1653665856,1673288367,"Used by last.fm to deliver images. - qjz9zk"
 96,0,licensing.xboxlive.com,1,1653665856,1653665856,"Owned by Microsoft. Used for Xbox updates, game downloads, acheivements unlocking etc. - qjz9zk"
 97,0,live.com,1,1653665856,1653665856,"Owned by Microsoft. It is a personal information manager web app from Microsoft consisting of webmail, calendaring, contacts, and tasks services. - qjz9zk"
@@ -271,14 +271,14 @@ id,type,domain,enabled,date_added,date_modified,comment
 274,3,(\.|^)downloads\.se3v5tjfff3aet\.me$,1,1653668225,1653668225,vpn/proxy
 275,2,(\.|^)doh\.opendns\.com$,1,1653668345,1653668345,
 276,3,(\.|^)tubecup\.net$,1,1654092895,1654092895,
-277,0,telemetry.malwarebytes.com,1,1663258024,1673288106,"Added from Query Log"
-279,2,(\.|^)malwarebytes\.com$,1,1663336274,1673288104,
+277,0,telemetry.malwarebytes.com,1,1663258024,1683206877,"Added from Query Log"
+279,2,(\.|^)malwarebytes\.com$,1,1663336274,1683206883,
 281,3,.*,1,1673288205,1682698589,"ISEE AP Test"
 282,2,(\.|^)apple\.com$,1,1673288221,1673288464,
-285,2,(\.|^)jamfcloud\.com$,1,1673288320,1673288327,
+285,2,(\.|^)jamfcloud\.com$,1,1673288320,1683206680,
 286,2,(\.|^)akamai\.net$,1,1673288341,1673288364,
 287,2,(\.|^)standrews\.austin\.tx\.us$,1,1673288392,1673288403,
-288,2,(\.|^)mwbsys\.com$,1,1673288421,1673288436,
+288,2,(\.|^)mwbsys\.com$,1,1673288421,1683206982,Malwarebytes
 289,2,(\.|^)cdn-apple\.com$,1,1673288612,1673288623,
 290,2,(\.|^)aaplimg\.com$,1,1673288638,1673288645,
 291,2,(\.|^)akadns\.net$,1,1673288658,1673288665,
