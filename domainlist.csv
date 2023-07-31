@@ -295,3 +295,4 @@ id,type,domain,enabled,date_added,date_modified,comment
 302,3,(^|\.)tiktokcdn\.com$,1,1674239194,1674239206,tiktok
 303,3,(\.|^)radon\.games$,1,1674750551,1674750559,"proxy games website"
 304,0,a.klaviyo.com,1,1676663715,1676663715,"Added from Query Log"
+305,2,(\.|^)securly\.com$,1,1690809579,1690809589,Securly
