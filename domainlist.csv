@@ -273,7 +273,7 @@ id,type,domain,enabled,date_added,date_modified,comment
 276,3,(\.|^)tubecup\.net$,1,1654092895,1654092895,
 277,0,telemetry.malwarebytes.com,1,1663258024,1683206877,"Added from Query Log"
 279,2,(\.|^)malwarebytes\.com$,1,1663336274,1683206883,
-281,3,.*,0,1673288205,1699372294,"ISEE AP Test"
+281,3,.*,1,1673288205,1699386787,"ISEE AP Test"
 282,2,(\.|^)apple\.com$,1,1673288221,1673288464,
 285,2,(\.|^)jamfcloud\.com$,1,1673288320,1683206680,
 286,2,(\.|^)akamai\.net$,1,1673288341,1673288364,
@@ -295,4 +295,5 @@ id,type,domain,enabled,date_added,date_modified,comment
 302,3,(^|\.)tiktokcdn\.com$,1,1674239194,1674239206,tiktok
 303,3,(\.|^)radon\.games$,1,1674750551,1674750559,"proxy games website"
 304,0,a.klaviyo.com,1,1676663715,1676663715,"Added from Query Log"
-305,2,(\.|^)securly\.com$,1,1690809579,1690809589,Securly
+305,2,(\.|^)securly\.com$,1,1690809579,1699387546,Securly
+306,2,(\.|^)push\.apple\.com$,1,1699390505,1699390512,
